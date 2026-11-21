@@ -1,0 +1,21 @@
+section,function_name,value_mm,unit,fs_expression,description
+Fasteners,M3_tap_hole,2.5,mm,2.5 * millimeter,M3 tap drill hole diameter
+Fasteners,M3_clearance_hole,3.2,mm,3.2 * millimeter,M3 clearance hole diameter
+Fasteners,M4_tap_hole,3.3,mm,3.3 * millimeter,M4 tap drill hole diameter
+Fasteners,M4_clearance_hole,4.2,mm,4.2 * millimeter,M4 clearance hole diameter
+Fasteners,M5_tap_hole,4.1,mm,4.1 * millimeter,M5 tap drill hole diameter
+Fasteners,M5_clearance_hole,5.2,mm,5.2 * millimeter,M5 clearance hole diameter
+Fasteners,M6_tap_hole,5.1,mm,5.1 * millimeter,M6 tap drill hole diameter
+Fasteners,M6_clearance_hole,6.2,mm,6.2 * millimeter,M6 clearance hole diameter
+Fasteners,tap_hole_10_32,4.04,mm,4.04 * millimeter,#10-32 tap drill hole diameter
+Fasteners,clearance_hole_10_32,5,mm,5 * millimeter,#10-32 clearance hole diameter
+Fasteners,Standard_bearing_1_125,28.65,mm,28.65 * millimeter,Standard 1.125 inch bearing dimension
+Fasteners,M5_Nut_Distance,8,mm,8 * millimeter,M5 nut distance
+Fasteners,M5_Socket_Head,8.5,mm,8.5 * millimeter,M5 socket head cap screw diameter
+Fabrication,Plate_Chamfer,0.5,mm,0.5 * millimeter,Plate edge chamfer size
+Fabrication,Shaft_End_Chamfer,1,mm,1 * millimeter,Shaft end chamfer size
+Fabrication,Shaft_TapHole_Depth_M5,15,mm,15 * millimeter,M5 tap hole depth in shaft
+Fabrication,Spacer_M4_OD,9,mm,9 * millimeter,M4 spacer outer diameter
+Fabrication,Spacer_M5_OD,10,mm,10 * millimeter,M5 spacer outer diameter
+Magic Numbers,Offset_3DPrint,0.2,mm,0.2 * millimeter,3D printing tolerance offset
+Magic Numbers,Offset_CTC,0.381,mm,0.381 * millimeter,Belt center-to-center offset
